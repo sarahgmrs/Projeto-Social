@@ -30,8 +30,9 @@ iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;
-    width: 269px;
+    width: 266px;
     height: 471px;
+    border: 1px solid rgba(0, 0, 0, 0.096);
 }
 section#redes-sociais {
     text-align: right;   
